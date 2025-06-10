@@ -249,3 +249,10 @@ Historique plus lisible
 → Meilleure évaluation des changements
 
 → Analyse de haut niveau de la qualité des changements OSM dans Clearance
+
+
+----
+
+## Takeaway
+
+![](include/qr-code.svg)
